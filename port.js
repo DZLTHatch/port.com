@@ -55,11 +55,11 @@ function prepareShopcart() {
 
 function changeImg(id) {
     if (id == "1") {
-        portImg.src = "images/T.Hatch_modern_blue_sapphire_house_design_ui_ux_floating_design_9ecc0f3f-779f-4107-99f8-d4168d0ba7a3.png";
+        portImg.src = "T.Hatch_modern_blue_sapphire_house_design_ui_ux_floating_design_9ecc0f3f-779f-4107-99f8-d4168d0ba7a3.png";
     } else if (id == "2") {
-        portImg.src = "images/tinywow_teamtree_17225342.png";
+        portImg.src = "tinywow_teamtree_17225342.png";
     } else {
-        portImg.src = "images/tinywow_developers_17224854.png";
+        portImg.src = "tinywow_developers_17224854.png";
     }
 }
 
